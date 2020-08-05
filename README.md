@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gabriel Araujo</h1>
+<h1 align="center">Hi 👋, I'm Gabriel Araújo</h1>
 <h3 align="center">A passionate developer from Brasil.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=araujogabriel77" alt="araujogabriel77" /> </p>
@@ -8,6 +8,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=araujogabriel77&theme=blue-green&show_icons=true" alt="araujogabriel77" />
 
 <p align="center">
-<a href="https://codepen.io/nujabbes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="nujabbes" height="30" width="30" /></a><br/>
+<a href="https://codepen.io/nujabbes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="nujabbes" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/araujogabriel77" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="araujogabriel77" height="30" width="30" /></a>
 </p>
