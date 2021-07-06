@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabriel Araújo</h1>
 <p>
  Estudante de Ciência da Computação na UFAL.<br/>
- Atualmente trabalhando como web developer - Nodejs | Typescript | NestJs | Angular | React 🐱‍💻.<br/>  
+ Atualmente trabalhando como web developer - Nodejs | Typescript | NestJs | Angular | React 💻.<br/>  
   <strong><br/>
 </p>
 <p>
